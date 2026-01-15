@@ -20,10 +20,10 @@ I am a firm believer of passion and determination can lead you to success."
     3. Curious ...
 
 
-# Projects Section   ongoing
+# Projects Section  ✅ 
     - Do it like most impactful projects first
 
-# Blogs Section
+# Blogs Section 
 
 
 # My Resume Section
